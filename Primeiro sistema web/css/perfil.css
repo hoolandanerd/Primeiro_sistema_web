@@ -1,4 +1,14 @@
 .conteudo {
     display: flex;
+    gap: 900px;
+}
+
+.divisao{
+    display: flex;
     gap: 20px;
+
+}
+
+main{
+    margin: 10px 50px;
 }
